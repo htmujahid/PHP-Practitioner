@@ -1,2 +1,2 @@
-/src/vendor
-/src/composer.json
+src/vendor/
+src/composer.json
